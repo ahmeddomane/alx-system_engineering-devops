@@ -1,3 +1,2 @@
 #!/bin/bash
-MY_VAR="HI"
-export MY_VAR
+printenv
